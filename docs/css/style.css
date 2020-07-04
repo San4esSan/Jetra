@@ -2,6 +2,7 @@
 
 @font-face {
 	src: url(../fonts/Helvetica\ Neue\ Condensed\ Bold.ttf);
+	src: url(../fonts/Bebas.ttf) format('truetype');
 	src: url(../fonts/Bebas.woff) format('woff');
 	src: url(../fonts/Bebas.woff2) format('woff2');
 }
