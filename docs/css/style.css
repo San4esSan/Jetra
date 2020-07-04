@@ -154,7 +154,7 @@ li {
 }
 
 .slider__item-title p {
-	font-family: Helvetica;
+	font-family: HelveticaNeue;
 	text-transform: none;
 	font-size: 12px;
 	line-height: 14px;
@@ -182,7 +182,7 @@ li {
 }
 
 .item {
-	font-family: Helvetica;
+	font-family: HelveticaNeue;
 	width: 300px;
 	font-size: 12px;
 	line-height: 18px;
@@ -335,11 +335,22 @@ li {
 }
 
 .footer__text p {
-	font-family: Helvetica;
+	font-family: HelveticaNeue;
 	font-size: 12px;
 	line-height: 16px;
 	padding-top: 20px;
 	margin: 0;
+}
+
+.footer_mail{
+	text-transform: lowercase;
+}
+
+.footer__text a {
+	
+	font-size: 12px;
+	display: block;
+	color: #fff;
 }
 
 .footer__text span{
