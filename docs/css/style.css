@@ -1,6 +1,9 @@
-@import url(https://allfont.ru/allfont.css?fonts=bebas);
+/* @import url(https://allfont.ru/allfont.css?fonts=bebas); */
+
 @font-face {
-	src: url(/project4/project4.1/fonts/Helvetica\Neue\Condensed\Bold.ttf);
+	src: url(../fonts/Helvetica\ Neue\ Condensed\ Bold.ttf);
+	src: url(../fonts/Bebas.woff) format('woff');
+	src: url(../fonts/Bebas.woff2) format('woff2');
 }
 html {
 	box-sizing: border-box;
@@ -34,7 +37,7 @@ li {
 
 .header {
 	background-color: #fff;
-	font-family: "Bebas", sans-serif;
+	font-family: "Bebas", sans-serif;  
 }
 
 .header__inner {
