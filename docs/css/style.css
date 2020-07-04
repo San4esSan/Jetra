@@ -38,7 +38,7 @@ li {
 
 .header {
 	background-color: #fff;
-	font-family: "Bebas", sans-serif;  
+	font-family: "Bebas";  
 }
 
 .header__inner {
@@ -130,7 +130,7 @@ li {
 
 .slider__item-title {
 	position: absolute;
-	font-family: "Bebas", sans-serif;
+	font-family: "Bebas";
 	font-size: 18px;
 	color: #fff;
 	max-width: 413px;
@@ -176,7 +176,7 @@ li {
 }
 
 .item__title {
-	font-family: "Bebas", sans-serif;
+	font-family: "Bebas";
 	font-size: 18px;
 	line-height: 24px;
 	text-transform: uppercase;
@@ -216,7 +216,7 @@ li {
 }
 
 .works {
-	font-family: "Bebas", sans-serif;
+	font-family: "Bebas";
 	text-transform: uppercase;
 	font-weight: 400;
 }
@@ -311,7 +311,7 @@ li {
 }
 
 .footer__item {
-	font-family: "Bebas", sans-serif;
+	font-family: "Bebas";
 	font-size: 20px;
 	width: 300px;
 	padding: 42px 0px 30px 35px;
