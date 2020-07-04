@@ -1,11 +1,24 @@
 /* @import url(https://allfont.ru/allfont.css?fonts=bebas); */
 
 @font-face {
-	src: url(../fonts/Helvetica\ Neue\ Condensed\ Bold.ttf);
-	/* src: url(../fonts/Bebas.ttf) format('truetype');
-	src: url(../fonts/Bebas.woff) format('woff');
-	src: url(../fonts/Bebas.woff2) format('woff2'); */
+	font-family: 'Bebas';
+	src: url(../fonts/Bebas.woff2) format('woff2'),
+		url(../fonts/Bebas.woff) format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
 }
+
+@font-face {
+	font-family: 'HelveticaNeue';
+	src: url(../fonts/HelveticaNeue.woff2) format('woff2'),
+		url(../fonts/HelveticaNeue.woff) format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+
 html {
 	box-sizing: border-box;
 }
