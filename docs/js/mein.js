@@ -25,7 +25,17 @@ $(function(){
 				 infinite: true,
 				//  dots: true
 			  }
+			  
 			},
+			// {
+			// 	breakpoint: 400,
+			//   settings: {
+			// 	 slidesToShow: 0,
+			// 	//  centerMode: 0,
+			// 	//  infinite: false,
+			// 	//  dots: true
+			//   }
+			// }
 			
 		 ]
 	 });
